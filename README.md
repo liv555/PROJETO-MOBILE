@@ -37,9 +37,7 @@ Este é um aplicativo Flutter que simula um carrinho de compras simples. O usuá
    flutter run
    ```
 
-## Captura de Tela
 
-Adicione aqui uma captura de tela do aplicativo em funcionamento.
 
 ## Requisitos
 
